@@ -11,3 +11,6 @@ a {
   background: grey;
 }
 
+figcaption {
+  font-size: 12px;
+}
