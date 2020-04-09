@@ -21,7 +21,7 @@ p#featured-property {
 }
 
 #details {
-  text-align: center;
+  border: 1px solid red;
   display: block;
 }
 #details div {
