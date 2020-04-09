@@ -20,10 +20,11 @@ p#featured-property {
   margin: auto;
 }
 
-div#details {
+#details {
   display: block;
-  float: left;
+  
 }
 div#details {
+  float: left;
   width: 25%;
 }
