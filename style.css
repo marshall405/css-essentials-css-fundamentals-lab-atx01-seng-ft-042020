@@ -19,3 +19,7 @@ p#featured-property {
   width: 800px;
   margin: auto;
 }
+
+#details {
+  display: float;
+}
