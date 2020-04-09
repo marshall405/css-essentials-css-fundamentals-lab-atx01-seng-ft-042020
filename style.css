@@ -20,8 +20,8 @@ p#featured-property {
   margin: auto;
 }
 
-div#details {
-  display: float;
+#details {
+  display: block;
   float: left;
 }
 div#details {
