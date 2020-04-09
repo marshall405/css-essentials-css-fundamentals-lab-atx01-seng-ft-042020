@@ -20,7 +20,7 @@ p#featured-property {
   margin: auto;
 }
 
-#details {
+div#details {
   display: float;
   float: left;
 }
