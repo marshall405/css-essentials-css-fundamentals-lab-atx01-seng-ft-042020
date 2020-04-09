@@ -22,4 +22,5 @@ p#featured-property {
 
 #details {
   display: float;
+  float: left;
 }
