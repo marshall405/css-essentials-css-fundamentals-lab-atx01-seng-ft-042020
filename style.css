@@ -24,6 +24,7 @@ p#featured-property {
   display: block;
 }
 div#details {
+  display: inline;
   float: left;
   width: 25%;
 }
