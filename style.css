@@ -24,3 +24,6 @@ p#featured-property {
   display: float;
   float: left;
 }
+div#details {
+  width 25%;
+}
